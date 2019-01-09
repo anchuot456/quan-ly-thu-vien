@@ -1,0 +1,5 @@
+100,Fly,John Kent,Kim Dong,100,1381450
+101,Bay,Nguyen Anh,Kim Dong,150
+102,Sao,Nguyen Anh,Tuoi Tre,80
+103,Dream,Sahra,Time,250,135640
+104,Duong,Kim Ngan,Thanh Nien,150
